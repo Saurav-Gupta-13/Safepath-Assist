@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "499442446412",
+    "project_id": "safe-path-assist",
+    "storage_bucket": "safe-path-assist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499442446412:android:f6dc8b6643a18fa22044e9",
+        "android_client_info": {
+          "package_name": "com.example.safepath_assist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499442446412-5ihh7mqsg520v45kuihtpa95vq6ocl84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXy4zIU3-dHiAFC4iAy4l4XzHAY9wFLIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499442446412-5ihh7mqsg520v45kuihtpa95vq6ocl84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
